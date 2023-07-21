@@ -1,0 +1,28 @@
+.uno{
+    color: green;
+    text-decoration: underline;
+}
+.dos{
+    color: red;
+    font-weight: bold;
+}
+.tres{
+    text-decoration: underline overline;
+}
+.cuatro{
+    font-size: 40px;
+    font-weight: bold;
+}
+.cinco{
+    color: blue;
+    font-weight: bold;
+}
+.seis{
+    color: red;
+    text-decoration: underline;
+    font-size: 16px;
+    font-weight: bold;
+}
+.siete{
+    line-height: 3.2;
+}

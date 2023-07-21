@@ -1,0 +1,15 @@
+.links{
+    color: white;
+    padding: 7px;
+}
+.menu{
+    background-color: #D6AFDC;
+    width: 410px;
+    height: 37px;
+    margin: auto;
+    padding-top: 18px;
+    padding-left: 16px;
+}
+.links:hover{
+    background-color: blue;
+}
